@@ -5,7 +5,8 @@
 4. Set Java, Android SDK and Node Home Paths in system variables
 5. Open Android Studio and configure a physical device (Emulator also fine, but make sure the setting is correct)
 6. Insall Appium server via Node
-7. Check out this project and open in IDE
+7. Check out this project
+8. Open this project in IDE amd install TestNG
 
 ## Running test:
 1. Connect your physical device to PC or create a new virtual device in Android studio
